@@ -1,0 +1,2 @@
+# WebDev_Project_AnimeHaven
+This is a website that i have created called "Anime Haven". it is an online shop dedicated to anime fans so that they can buy merchandise that are anime themed, for example, T shirts, Keychains, manga, mini figures etc. what is unique about this website is its general discussion feature which allows users to talk on 1 online forum.
